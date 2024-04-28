@@ -304,6 +304,13 @@ a {
     font-size: 2.2rem;
 }
 
+.link-whatsapp img {
+    height: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
 footer {
     height: 25px;
     background-color: black;
